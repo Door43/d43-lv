@@ -9,17 +9,12 @@
 
   * [[lv:obs|Open Bible Stories (lv)]]
 
-
 **Downloads**
 
 All content for this namespace is available in the [[https://github.com/Door43/d43-lv|d43-lv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lv/archive/master.zip|d43-lv.zip]]
 
 **Recent Changes**
 {{changes>ns = lv}}
-
-**Latest Status**
-{{page>en:uwadmin:lv:obs:status}}
-
 
 **Language Information**
 
@@ -29,5 +24,3 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
   * [[lv:obs|Open Bible Stories (lv)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:lv:obs:status}}
